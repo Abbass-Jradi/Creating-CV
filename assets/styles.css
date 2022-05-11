@@ -1,3 +1,13 @@
 .image{
     float: left;
 }
+
+.name{
+    margin-left:200px;
+    color:grey;
+}
+
+.profession{
+    margin-left:200px;
+    color:grey;
+}
