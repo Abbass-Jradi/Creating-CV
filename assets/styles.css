@@ -1,12 +1,14 @@
 body{
     background-image:url("Background.jpg");
     text-shadow: 2px 2px 5px grey;
+    
 
 }   
 
 
 .image{
     float: left;
+    border: 5px solid rgb(59, 59, 59);
 }
 
 .name{
