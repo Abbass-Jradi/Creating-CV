@@ -1,3 +1,10 @@
+body{
+    background-image:url("Background.jpg");
+    text-shadow: 2px 2px 5px grey;
+
+}   
+
+
 .image{
     float: left;
 }
@@ -5,9 +12,15 @@
 .name{
     margin-left:200px;
     color:grey;
+    text-shadow: 2px 2px 5px grey;
+
+
 }
 
 .profession{
     margin-left:200px;
     color:grey;
+    text-shadow: 2px 2px 5px grey;
+
 }
+
