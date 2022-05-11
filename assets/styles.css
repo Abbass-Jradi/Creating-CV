@@ -35,6 +35,10 @@ ul li {
     color: rgb(4, 4, 5);
     margin: 5px;
   }
+
+  hr.new3 {
+    border-top: 5px dotted rgb(14, 172, 93);
+  }
   
 
 
