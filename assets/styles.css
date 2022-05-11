@@ -27,11 +27,11 @@ body{
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #b2c4be;
 }
 
 ul li {
-    background: #f2f2f2;
+    background: #b2c4be;
     color: rgb(4, 4, 5);
     margin: 5px;
   }
